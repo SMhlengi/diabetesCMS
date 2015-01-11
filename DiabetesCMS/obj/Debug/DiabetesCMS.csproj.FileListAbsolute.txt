@@ -1,0 +1,10 @@
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\Visual Studio 2012\Projects\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.csprojResolveAssemblyReference.cache
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\obj\Debug\DiabetesCMS.csprojResolveAssemblyReference.cache

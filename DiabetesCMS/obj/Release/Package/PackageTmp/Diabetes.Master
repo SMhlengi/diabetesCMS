@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Diabetes.master.cs" Inherits="DiabetesCMS.Diabetes" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Bootstrap -->
+    <link href="<%= ResolveUrl("~/assets/css/bootstrap.min.css") %>" rel="stylesheet" />
+    <link href="<%= ResolveUrl("~/assets/css/Diabetes.css?v=51") %>" rel="stylesheet" />
+    <link href="<%= ResolveUrl("~/assets/css/select2.css") %>" rel="stylesheet" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="<%=ResolveUrl("~/assets/js/jquery.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/assets/js/jquery.cookie.js") %>"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="<%=ResolveUrl("~/assets/js/bootstrap.min.js?v=2")%>"></script>
+    <script src="<%=ResolveUrl("~/assets/js/diabetes.js?v=48")%>"></script>
+    <script src="<%=ResolveUrl("~/assets/js/select2.min.js")%>"></script>
+	<script type="text/javascript" src="<%=ResolveUrl("~/assets/tinymce/tinymce.min.js")%>"></script>
+	<script type="text/javascript">
+		tinymce.init({
+		    selector: "textarea",
+		    height: 380,
+		    auto_focus: "articlebody",
+		    plugins: "wordcount",
+		});
+	</script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <script>
+        var categoryid = "";
+        var articleSaved = false;
+    </script>
+    <form id="form1" runat="server">
+    <div>
+            <div class="container">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+    </div>
+    </form>
+</body>
+</html>

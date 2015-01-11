@@ -1,0 +1,8 @@
+c:\users\musa.mhlengi\documents\visual studio 2012\Projects\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.dll
+c:\users\musa.mhlengi\documents\visual studio 2012\Projects\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.pdb
+c:\users\musa.mhlengi\documents\visual studio 2012\Projects\DiabetesCMS\DiabetesCMS\obj\Release\DiabetesCMS.dll
+c:\users\musa.mhlengi\documents\visual studio 2012\Projects\DiabetesCMS\DiabetesCMS\obj\Release\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\bin\DiabetesCMS.pdb
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\obj\Release\DiabetesCMS.dll
+C:\Users\musa.mhlengi\Documents\GitHub\DiabetesCMS\DiabetesCMS\obj\Release\DiabetesCMS.pdb
